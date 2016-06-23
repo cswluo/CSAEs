@@ -1,0 +1,11 @@
+numfeatures1        = 32;
+numfeatures2        = 64;
+kernelsize1         = 5;
+kernelsize2         = 5;
+poolsize1           = 2;
+poolsize2           = 2;
+vneighbors1         = 32;
+vneighbors2         = 16;
+poolstride1         = poolsize1;
+poolstride2         = poolsize2; 
+wiredConnect        = 16;
